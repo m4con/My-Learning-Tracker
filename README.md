@@ -12,13 +12,16 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**JavaScript / ES5 / ES6**        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 
+|
+|**ReactJS**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Tachyons**                      | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**CSS Modules**                   | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Publishing website (DevOps)**   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
@@ -28,6 +31,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Open Source Contribution**      | ![done][done]     |               |               |                  |                |                 |
 |**React**                         | ![done][done]     |               |               |                  |                |                 |
 |**Task runners Gulp**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Webpack**                       | ![done][done]     |               |               |                  |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Ruby**                          | ![done][done]     |               |               |                  |                |                 |
 |**Python**                        | ![done][done]     |               |               |                  |                |                 |
