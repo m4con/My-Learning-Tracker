@@ -28,8 +28,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**NPM (Scripts)**                 | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Open Source Contribution**      | ![done][done]     |               |               |                  |                |                 |
-|**React**                         | ![done][done]     |               |               |                  |                |                 |
-|**Task runners Gulp**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Task runner Gulp**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Webpack**                       | ![done][done]     |               |               |                  |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Ruby**                          | ![done][done]     |               |               |                  |                |                 |
@@ -38,7 +37,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**MongoDB**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Reddis**                        |                   |               |               |                  |                |                 |
 |**D3.js**                         |                   |               |               |                  |                |                 |
-|**Elektron**                      |                   |               |               |                  |                |                 |
 |**Websockets**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**PatternLab**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 
